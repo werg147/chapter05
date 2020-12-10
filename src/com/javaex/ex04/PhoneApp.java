@@ -24,6 +24,8 @@ public class PhoneApp {
 				break;
 			}
 			
+			String[] data = str.split(",");
+			
 			
 		}
 		
